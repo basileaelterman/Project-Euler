@@ -13,4 +13,4 @@ while (y <= 4000000) {
     y = temp;
 }
 
-console.log(sum); // Result: 4613732
+console.log(sum);
